@@ -271,6 +271,4 @@ Research Assistant, Social Networks Lab
 <p align="center">
   Built with PyTorch, Hugging Face Transformers, PaliGemma, and QLoRA.
 </p>
-<p align="center">
-  Built with PyTorch, Hugging Face Transformers, PaliGemma, and QLoRA.
-</p>
+
